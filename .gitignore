@@ -25,6 +25,7 @@ stamp-h1
 *.o
 *~
 .dirstamp
+/src/hello
 
 # Configuration headers
 /src/config.h
