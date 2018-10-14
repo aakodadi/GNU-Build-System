@@ -1,1 +1,1 @@
-# GNU Build System - Getting started
+# GNU Build System - Getting Started
