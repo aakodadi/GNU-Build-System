@@ -13,8 +13,7 @@ XFAIL_TESTS = \
   foo_xfail_test
 
 check_PROGRAMS = \
-  $(TESTS) \
-  $(XFAIL_TESTS)
+  $(TESTS)
 
 foo_test_SOURCES = \
   foo_test.c \
