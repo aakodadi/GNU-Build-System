@@ -27,6 +27,14 @@ stamp-h1
 .dirstamp
 /hello
 
+# Log files
+*.log
+
+# Test driver
+test-driver
+*.trs
+*test
+
 # Configuration headers
 /src/config.h
 /src/config.h.in
