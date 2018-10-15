@@ -1,5 +1,5 @@
-# [GNU Build System - Getting Started]
+# [GNU Build System - Testing]
 
 
 
-[GNU Build System - Getting Started]: http://acodedaddy.blogspot.com/2018/05/gnu-build-system-getting-started.html
+[GNU Build System - Testing]: https://acodedaddy.blogspot.com/2018/10/gnu-build-system-testing.html
