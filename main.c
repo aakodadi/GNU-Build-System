@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include "lib/hello.h"
 
 int
 main (int argc, char** argv)
 {
-  printf("Hello world!\n");
+  hello ();
   return (EXIT_SUCCESS);
 }
