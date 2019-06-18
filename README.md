@@ -2,4 +2,4 @@
 
 
 
-[GNU Build System - Getting Started]: http://acodedaddy.blogspot.com/2018/05/gnu-build-system-getting-started.html
+[GNU Build System - Getting Started]: https://acodedaddy.blogspot.com/2018/05/gnu-build-system-getting-started.html
