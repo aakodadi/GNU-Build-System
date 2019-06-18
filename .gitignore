@@ -2,6 +2,7 @@
 
 Makefile.in
 Makefile
+/ar-lib
 
 # http://www.gnu.org/software/autoconf
 
