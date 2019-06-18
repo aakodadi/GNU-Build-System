@@ -24,6 +24,7 @@ stamp-h1
 /build
 .deps/
 *.o
+*.a
 *~
 .dirstamp
 /hello
