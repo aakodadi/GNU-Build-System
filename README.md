@@ -1,5 +1,5 @@
-# [GNU Build System - Getting Started]
+# [GNU Build System - Recursive Automake]
 
 
 
-[GNU Build System - Getting Started]: http://acodedaddy.blogspot.com/2018/05/gnu-build-system-getting-started.html
+[GNU Build System - Recursive Automake]: https://acodedaddy.blogspot.com/2019/06/gnu-build-system-recursive-vs-non.html#recursive-automake
