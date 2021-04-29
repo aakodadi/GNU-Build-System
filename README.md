@@ -2,4 +2,4 @@
 
 
 
-[GNU Build System - Testing]: https://acodedaddy.blogspot.com/2018/10/gnu-build-system-testing.html
+[GNU Build System - Testing]: https://akodadi.com/tutorials/gnu-build-system/testing.html
