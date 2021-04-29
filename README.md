@@ -2,4 +2,4 @@
 
 
 
-[GNU Build System - Recursive Automake]: https://acodedaddy.blogspot.com/2019/06/gnu-build-system-recursive-vs-non.html#recursive-automake
+[GNU Build System - Recursive Automake]: https://akodadi.com/tutorials/gnu-build-system/recursive-vs-non.html#recursiveautomake
