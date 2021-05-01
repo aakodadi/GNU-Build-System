@@ -1,4 +1,4 @@
-# [GNU Build System - Getting Started]
+# [GNU Build System]
 
 
 
