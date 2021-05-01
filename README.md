@@ -2,4 +2,4 @@
 
 
 
-[GNU Build System - Getting Started]: https://akodadi.com/tutorials/gnu-build-system/
+[GNU Build System]: https://akodadi.com/tutorials/gnu-build-system/
